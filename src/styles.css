@@ -4,8 +4,12 @@ body {
   margin: 0;
 }
 
-#webGLApp {
+/* #webGLApp {
   position: fixed;
   top: 0;
   left: 0;
+} */
+
+#webGLApp {
+  width: 1300px;
 }
